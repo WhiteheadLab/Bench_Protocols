@@ -63,7 +63,7 @@ The following size selection protocol is for libraries with 200 bp inserts only.
 12. Quickly spin the tube and place it on a magnetic stand. After the solution is clear (about 5 minutes), transfer 15 μl to a new PCR tube for amplification. 
 13. Proceed to PCR Amplification in Section 1.4.
 
-![](/Users/reidbrennan/Documents/Lab Methods/SizeSelection.png)  
+![](https://cloud.githubusercontent.com/assets/13488648/13242145/d6cb604a-d9a6-11e5-8a60-fcdd96c0160a.png)  
 
 ##1.4 PCR Enrichment of Adaptor Ligated DNA
 
@@ -77,7 +77,7 @@ The following size selection protocol is for libraries with 200 bp inserts only.
 
 2. PCR Cycling Conditions:
 	
-	![](/Users/reidbrennan/Documents/Lab Methods/PCRCycle.png)
+	![](https://cloud.githubusercontent.com/assets/13488648/13242144/d6cb2814-d9a6-11e5-98cc-d43776209feb.png)
 
 3. Proceed to Cleanup of PCR Amplification Section 1.5.
 
