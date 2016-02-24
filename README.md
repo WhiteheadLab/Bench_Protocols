@@ -3,3 +3,5 @@
 This repository contains Whitehead Lab laboratory protocols. 
 
 All protocols should be written in markdown. 
+
+Update as necessary. 
