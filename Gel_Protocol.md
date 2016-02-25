@@ -1,6 +1,4 @@
 #Gel Protocol
-
-[toc]
 ___
 
 ## general notes
