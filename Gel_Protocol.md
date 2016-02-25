@@ -1,6 +1,8 @@
 #Gel Protocol
 ___
 
+This is still a work in progress
+
 ## general notes
 
 I'm running and making all gels with 1x SB Buffer
