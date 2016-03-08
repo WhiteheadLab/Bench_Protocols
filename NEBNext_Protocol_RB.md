@@ -1,10 +1,8 @@
-#Protocol for use with NEBNext Ultra DNA Library Prep Kit for Illumina (E7370)
-
-[toc]
+##Protocol for use with NEBNext Ultra DNA Library Prep Kit for Illumina (E7370)
 
 Starting material is RAD library prep, 55.5ul
 
-##1.1 NEBNext End Prep  
+## 1.1 NEBNext End Prep  
 
 1. Mix the following in a sterile tube:
 	
@@ -25,7 +23,7 @@ Starting material is RAD library prep, 55.5ul
 	| hold |  4°C |
 
 	 
-## 1.2 Adaptor ligation	
+### 1.2 Adaptor ligation	
 Because DNA input is < 100 ng, dilute the NEBNext Adaptor for Illumina (provided at 15 μM) 10-fold in 10 mM Tris-HCl to a final concentration of 1.5 μM, use immediately. ie, 1 ul adaptor into 9ul tris  
 
 1. Add the following components directly to the End Prep reaction mixture and mix well:  
@@ -45,7 +43,7 @@ Because DNA input is < 100 ng, dilute the NEBNext Adaptor for Illumina (provided
 5. Mix well and incubate at 37°C for 15 minutes.
 	- in heat block
 
-#1.3 Size Selection of Adaptor-ligated DNA 
+###1.3 Size Selection of Adaptor-ligated DNA 
 
 The following size selection protocol is for libraries with 200 bp inserts only. For libraries with different size fragment inserts, refer to Table 1.1 for the appropriate volume of beads to be added. The size selection protocol is based on a starting volume of 100 μl.  
 
@@ -58,14 +56,14 @@ The following size selection protocol is for libraries with 200 bp inserts only.
 7. Quickly spin the tube and place it on an appropriate magnetic stand to separate the beads from the supernatant. After the solution is clear (about 5 minutes), carefully remove and discard the supernatant that contains unwanted DNA. Be careful not to disturb the beads that contain the desired DNA targets **(Caution: do not discard beads)**.
 8. Add 200 μl of 80% freshly prepared ethanol to the tube while in the magnetic stand. Incubate at  room temperature for 30 seconds, and then carefully remove and discard the supernatant. 
 9. Repeat Step 8 once.
-10. Air dry the beads for 5 minutes while the tube is on the magnetic stand with the lid open.                                   **Caution: Do not overdry the beads. This may result in lower recovery of DNA target.**
+10. Air dry the beads for 5 minutes while the tube is on the magnetic stand with the lid open.  **Caution: Do not overdry the beads. This may result in lower recovery of DNA target.**
 11. Remove the tube/plate from the magnet. Elute the DNA target from the beads into 17 μl of 10 mM Tris-HCI or 0.1 X TE. Mix well on a vortex mixer or by pipetting up and down. Incubate for 2 minutes at room temperature. 
 12. Quickly spin the tube and place it on a magnetic stand. After the solution is clear (about 5 minutes), transfer 15 μl to a new PCR tube for amplification. 
 13. Proceed to PCR Amplification in Section 1.4.
 
-![](https://cloud.githubusercontent.com/assets/13488648/13242145/d6cb604a-d9a6-11e5-8a60-fcdd96c0160a.png)  
+![](images/SizeSelection.png)  
 
-##1.4 PCR Enrichment of Adaptor Ligated DNA
+### 1.4 PCR Enrichment of Adaptor Ligated DNA
 
 1. Mix the following components in a sterile nuclease-free tube:
 
@@ -77,11 +75,11 @@ The following size selection protocol is for libraries with 200 bp inserts only.
 
 2. PCR Cycling Conditions:
 	
-	![](https://cloud.githubusercontent.com/assets/13488648/13242144/d6cb2814-d9a6-11e5-98cc-d43776209feb.png)
+	![](images/PCRCycle.png)
 
 3. Proceed to Cleanup of PCR Amplification Section 1.5.
 
-## 1.5 Cleanup of PCR Amplification
+### 1.5 Cleanup of PCR Amplification
 
 1. Vortex AMPure XP Beads to resuspend.
 2. Add 45 μl of resuspended AMPure XP Beads to the PCR reactions (~ 50 μl). Mix well by pipetting up and down at least 10 times.
