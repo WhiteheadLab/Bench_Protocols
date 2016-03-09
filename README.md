@@ -33,5 +33,8 @@ this is just a sampling. Many people do many things....
 
 4. plain editor + pandoc
 	- pandoc can be used to md convert to html, pdf, etc.
-	- `pandoc -o output.html input.md`
+		+ all in latex style
+	- `pandoc input.md -o output.pdf`
+	- or, to adjust margins
+		+ `pandoc -V geometry:margin=1in input.md -o output.pdf`
 
