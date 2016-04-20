@@ -15,7 +15,7 @@ Starting material is RAD library prep, 55.5ul
 	Total volume: 65 ul
 
 2. Mix by pipetting followed by a quick spin to collect all liquid from the sides of the tube.
-3. Place in a thermocycler, with the heated lid on, and run the follwing program:  
+3. Place in a thermocycler, with the heated lid on, and run the follwing program: "NEB_DNA" -> "End Prep"  
 
 	|Time| Temp |  
 	|:---:|:---:|
@@ -43,29 +43,33 @@ Because DNA input is < 100 ng, dilute the NEBNext Adaptor for Illumina (provided
 	- Protocol: "NEB_DNA" ->"Adaptor" 	
 4. Add 3 ul of USER enzyme to the ligation mixture from Step 3. (found in the multiplex kit)
 5. Mix well and incubate at 37°C for 15 minutes.
-	- in heat block
+	- in thermocycler
 
 ###1.3 Size Selection of Adaptor-ligated DNA 
 
-The following size selection protocol is for libraries with 200 bp inserts only. For libraries with different size fragment inserts, refer to Table 1.1 for the appropriate volume of beads to be added. The size selection protocol is based on a starting volume of 100 ul.  
+The following size selection protocol is for libraries with 250-300 bp inserts only and ~400 bp average library size. For libraries with different size fragment inserts, refer to Table 1.1 for the appropriate volume of beads to be added. The size selection protocol is based on a starting volume of 100 ul.  
 
-1. Vortex AMPure XP Beads to resuspend.  
-2. Add 13.5 ul dH2O to the ligation reaction for a 100 ul total volume.  
-3. Add 55 ul of resuspended AMPure XP Beads to the 100 ul ligation reaction. Mix well by pipetting up and down at least 10 times.  
-4. Incubate for 5 minutes at room temperature.  
-5. Quickly spin the tube and place the tube on an appropriate magnetic stand to separate the beads from the supernatant. After the solution is clear (about 5 minutes), carefully transfer the supernatant containing your DNA to a new tube **(Caution: do not discard the supernatant)**. Discard the beads that contain the unwanted large fragments.    
-6. Add 25 ul resuspended AMPure XP Beads to the supernatant, mix well and incubate for 5 minutes at room temperature.  
+put Q5 hot start at room temp to thaw
+
+1. Vortex AMPure XP Beads to resuspend.
+2. Add 13.5 ul dH2O to the ligation reaction for a 100 ul total volume.
+3. Add 42.5 ul of resuspended AMPure XP Beads to the 100 ul ligation reaction. Mix well by pipetting up and down at least 10 times.
+4. Incubate for 5 minutes at room temperature.
+5. Quickly spin the tube and place the tube on an appropriate magnetic stand to separate the beads from the supernatant. After the solution is clear (about 5 minutes), carefully transfer the supernatant containing your DNA to a new tube **(Caution: do not discard the supernatant)**. Discard the beads that contain the unwanted large fragments.
+6. Add 22.5 ul resuspended AMPure XP Beads to the supernatant, mix well and incubate for 5 minutes at room temperature.
 7. Quickly spin the tube and place it on an appropriate magnetic stand to separate the beads from the supernatant. After the solution is clear (about 5 minutes), carefully remove and discard the supernatant that contains unwanted DNA. Be careful not to disturb the beads that contain the desired DNA targets **(Caution: do not discard beads)**.
 8. Add 200 ul of 80% freshly prepared ethanol to the tube while in the magnetic stand. Incubate at  room temperature for 30 seconds, and then carefully remove and discard the supernatant. 
 9. Repeat Step 8 once.
 10. Air dry the beads for 5 minutes while the tube is on the magnetic stand with the lid open.  **Caution: Do not overdry the beads. This may result in lower recovery of DNA target.**
-11. Remove the tube/plate from the magnet. Elute the DNA target from the beads into 17 ul of 10 mM Tris-HCI or 0.1 X TE. Mix well on a vortex mixer or by pipetting up and down. Incubate for 2 minutes at room temperature. 
+11. Remove the tube/plate from the magnet. Elute the DNA target from the beads into 22 ul of 10 mM Tris-HCI or 0.1 X TE. Mix well on a vortex mixer or by pipetting up and down. Incubate for 2 minutes at room temperature. 
 12. Quickly spin the tube and place it on a magnetic stand. After the solution is clear (about 5 minutes), transfer 15 ul to a new PCR tube for amplification. 
 13. Proceed to PCR Amplification in Section 1.4.
 
 ![](images/SizeSelection.png)  
 
 ### 1.4 PCR Enrichment of Adaptor Ligated DNA
+
+First use 5ul DNA with 14 cycles. Check for dna conc, then use the other 17 ul with the appropriate amount of cycles.
 
 1. Mix the following components in a sterile nuclease-free tube:
 
@@ -91,8 +95,8 @@ The following size selection protocol is for libraries with 200 bp inserts only.
 6. Repeat Step 5 once.
 7. Air dry the beads for 5 minutes while the PCR plate is on the magnetic stand with the lid open. ***Caution: Do not overdry the beads. This may result in lower recovery of DNA target.***  
 8. Remove the tube/plate from the magnet. Elute DNA target from beads into 33 ul 0.1X TE. Mix well by pipetting up and down at least 10 times. Quickly spin the tube and incubate at room temperature for 2 minutes.
-9. Place the sample on an appropriate magnetic stand to separate beads from supernatant. After the solution is clear (about 5 minutes), carefully transfer 28 ul supernatant to a new PCR tube. Libraries can be stored at –20°C.
-10. Dilute 2-3 ul of the library 5 fold with 10 mM Tris-HCl or 0.1X TE and check the size distribution on an Agilent Bioanalyzer® (high sensitivity chip).
+9. Place the sample on an appropriate magnetic stand to separate beads from supernatant. After the solution is clear (about 5 minutes), carefully transfer ~30 ul supernatant to a new PCR tube. Libraries can be stored at –20°C.
+10. Check the size distribution on an Agilent Bioanalyzer® (high sensitivity chip).
 
 
 	
