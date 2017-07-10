@@ -1,5 +1,9 @@
-## BestRAD Illumina library Prep- From Miller Lab
-Updated from miller lab 3.15.16
+## BestRAD Illumina library Prep
+
+This method was developed by Mike Miller's Lab at UCD and described in the citation below:
+
+Ali, Omar A., et al. "RAD capture (Rapture): flexible and efficient sequence-based genotyping." Genetics 202.2 (2016): 389-400.
+
 
 ### Part 1: Digestion, RAD adaptor ligation, and shearing.
 

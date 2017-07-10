@@ -1,6 +1,10 @@
-##Easy UCD DNA Digests
+#Easy UCD DNA Digests
 
-modified from Miller lab
+This method was developed by Mike Miller's Lab at UCD and described in the citation below:
+
+Ali, Omar A., et al. "RAD capture (Rapture): flexible and efficient sequence-based genotyping." Genetics 202.2 (2016): 389-400.
+
+# protocol
 
 Samples:  
 :  
@@ -68,7 +72,7 @@ Samples:
 
 26. Aspirate and discard the supernatant. 
 
-__a total of three washes__
+	__a total of three etoh washes__
 
 27. Allow the beads to air dry while on the magnet. It is very important that ethanol is not carried over. 
 

@@ -60,8 +60,8 @@ Dilute 100 bp ladder 1:8
 	- 1.5 ul ladder
 	- 2 ul 6X loading dye
 
-Load 3 ul ladder
-Load 3 ul DNA+dye mix, .5 ul dye, 2.5 ul dna
+Load 3 ul ladder  
+Load 3 ul DNA+dye mix, .5 ul dye, 2.5 ul dna  
 
 
 
