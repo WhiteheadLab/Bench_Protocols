@@ -1,4 +1,4 @@
-#Easy UCD DNA Digests
+# Easy UCD DNA Digests
 
 This method was developed by Mike Miller's Lab at UCD and described in the citation below:
 
