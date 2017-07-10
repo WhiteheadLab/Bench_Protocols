@@ -7,7 +7,7 @@ Ali, Omar A., et al. "RAD capture (Rapture): flexible and efficient sequence-bas
 
 ### Part 1: Digestion, RAD adaptor ligation, and shearing.
 
-1. Into each 96 plate well, pipete X ul genomic DNA<sup>1</sup> (50 ng in less than or equal to 10 ul). Can use more than 50 ng (up to 250 ng) to decrease number of pcr cycles down the line.
+1. Into each 96 plate well, pipete X ul genomic DNA (50 ng in less than or equal to 10 ul). Can use more than 50 ng (up to 250 ng) to decrease number of pcr cycles down the line.
 2. Into each 96 plate well, pipet Y ul low TE (Y = 10 – X)
 3. Into 1.5 ml tubes, make SbfI digestion master mix.
 	1. Make sure to add SbfI LAST. 
